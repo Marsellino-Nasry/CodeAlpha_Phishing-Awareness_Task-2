@@ -7,7 +7,7 @@ Welcome to the Phishing Awareness Training module. This training is designed to 
 - **Phishing Awareness Training PDF**: This PDF contains the full training module with detailed information and tips on how to identify and avoid phishing attacks.
 
 ## How to Use This Training
-1. **Download the PDF**: Click on the [Phishing_Awareness_Training.pdf](./Phishing_Awareness_Training.pdf) file to view or download the training module.
+1. **Download the PDF**: Click on the [Phishing_Awareness_Training.pdf](./CodeAlpha_Phishing%20Awareness_Task%202.pdf) file to view or download the training module.
 2. **Read Through the Material**: Carefully read through the material provided in the PDF. Pay attention to the examples and tips for identifying phishing attempts.
 3. **Share the Knowledge**: Feel free to share this training module with colleagues, friends, and family to help them stay safe from phishing attacks.
 
