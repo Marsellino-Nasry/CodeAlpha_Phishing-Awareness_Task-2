@@ -34,10 +34,4 @@ Welcome to the Phishing Awareness Training module. This training is designed to 
 
 ## Author
 This training module was created by [Marsellino Nasry Mounir]. For more information, visit my [GitHub Profile](https://github.com/Marsellino-Nasry).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-Feel free to customize the README further according to your preferences. Let me know if there's anything else you'd like to add or modify!
+--------
